@@ -308,23 +308,3 @@ The modified image is successfully saved as `final_modified_image.jpg` in the lo
 ## Result:
 Thus, the Python program to perform basic image handling and pixel transformations using OpenCV was successfully implemented and executed.
 
----
-
-### Step 7: Image Flipping
-
-| Horizontally Flipped | Vertically Flipped |
-| :---: | :---: |
-| ![Horizontally Flipped](outputs/step7_flipped_horizontally.png) | ![Vertically Flipped](outputs/step7_flipped_vertically.png) |
-| **Flipped Horizontally** | **Flipped Vertically** |
-
----
-
-### Step 8: Save the Final Modified Image
-
-The modified image is successfully saved as `final_modified_image.jpg` in the local directory.
-
----
-
-## Result:
-Thus, the Python program to perform basic image handling and pixel transformations using OpenCV was successfully implemented and executed.
-
